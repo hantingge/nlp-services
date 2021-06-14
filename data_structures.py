@@ -9,6 +9,7 @@ ItemFeatures = Mapping[str, float]
 OOV = "<unk>"
 
 logger = logging.getLogger(__name__)
+__author__ = "Hanting Ge"
 
 
 class Token:

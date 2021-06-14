@@ -18,6 +18,8 @@ from numba.typed import Dict as NumbaDict, List as NumbaList
 
 from data_structures import Sentence, ItemFeatures
 
+__author__ = "Hanting Ge"
+
 START_TAG = "START"
 OOV_TOKEN = "<unk>"
 

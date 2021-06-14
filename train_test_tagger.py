@@ -11,6 +11,7 @@ from typing import List
 from perceptron_pos_tagger import Perceptron_POS_Tagger
 from data_structures import Sentence, Corpus
 
+__author__ = "Hanting Ge"
 LOGGER = logging.getLogger(__name__)
 SEED = 1234
 
