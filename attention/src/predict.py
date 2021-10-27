@@ -134,7 +134,7 @@ def main():
 
     predict(args)
 
-    utils.display_exec_time(begin, "PA4 Inference")
+    utils.display_exec_time(begin, "Inference")
 
 
 if __name__ == '__main__':

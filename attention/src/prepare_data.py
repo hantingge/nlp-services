@@ -362,7 +362,7 @@ def main():
         print(f"\nCurrent data in {args.out_dir} already satisfies given configurations.")
         print("Returning..")
 
-    utils.display_exec_time(begin, "PA4 Data Loading & Preprocessing")
+    utils.display_exec_time(begin, "Data Loading & Preprocessing")
 
 
 if __name__ == '__main__':

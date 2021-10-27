@@ -316,7 +316,7 @@ def main():
 
     train(args)
 
-    utils.display_exec_time(begin, "PA4 Training")
+    utils.display_exec_time(begin, "Training")
 
 
 if __name__ == '__main__':
